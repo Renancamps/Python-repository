@@ -24,4 +24,4 @@ Pull requests are welcome.
 Please make sure to update tests as appropriate.
 
 ## Support
-If there is any questions feel free to reach me on email: campos.renan@outlook.com
+If there is any questions or suggestions feel free to reach me on email: campos.renan@outlook.com
